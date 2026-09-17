@@ -1,1 +1,1 @@
-# ThucHanh01_ThaoTran
+Nguồn AI (Google Bard, Canva AI)
